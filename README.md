@@ -10,6 +10,8 @@
 
 <a href="https://github.com/AbdelrahimAlsadiq"><img align='right' src='https://github.com/AbdelrahimAlsadiq/AbdelrahimAlsadiq/blob/main/Effects/chika-fujiwara-spinning.gif' width='35%'></a>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/abdelrahim.alsad.png" alt="TryHackMe">
+
 
 ### About Me
 - 🎓 I'm a Computer Science Student  
@@ -36,12 +38,11 @@
 ### Find me on  
 - [LinkedIn](https://www.linkedin.com/in/abdelrahim-alsadiq/)
 - [Facebook](https://www.facebook.com/Abdelrahim.Alsadiq/)
-- [Twitter](https://twitter.com/AbdelrahimAlsa7)
 - [Codeforces](https://codeforces.com/profile/A.Alsadiq)
-- [LeetCode](https://leetcode.com/AbdelrahimAlsadiq/)
 - [Hackerrank](https://www.hackerrank.com/abdelrahim_alsa1?hr_r=1)
 - [Sololearn](https://www.sololearn.com/profile/22775520)
 - [W3Schools](https://www.w3profile.com/AbdelrahimAlsadiq)
+- [TryHackMe](https://tryhackme.com/p/abdelrahim.alsad)
 
  <img src="https://github.com/AbdelrahimAlsadiq/AbdelrahimAlsadiq/blob/main/Effects/Line.gif">
 
