@@ -10,8 +10,7 @@
 
 <a href="https://github.com/AbdelrahimAlsadiq"><img align='right' src='https://github.com/AbdelrahimAlsadiq/AbdelrahimAlsadiq/blob/main/Effects/chika-fujiwara-spinning.gif' width='35%'></a>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/abdelrahim.alsad.png" alt="TryHackMe">
-
+<script src="https://tryhackme.com/badge/1989723"></script>
 
 ### About Me
 - 🎓 I'm a Computer Science Student  
