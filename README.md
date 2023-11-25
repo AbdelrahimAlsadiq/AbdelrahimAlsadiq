@@ -16,8 +16,8 @@
 
 ### About Me
 - 🎓 I'm a Computer Science Student  
-- 💻 I’m currently studying Cybersecurity
-- ⭐ 2023's Objective: Secure a Cybersecurity Analyst Job <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 💻 I’m currently studying Cybersecurity (Pen. Testing)
+- ⭐ 2023's Objective: Hunt some bug bounties <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - ⚡ I love Programming, Video Editing, Gaming, and Anime
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
@@ -29,6 +29,7 @@
 - HTML, CSS, Javascript
 - C, C++, C#, Java, Python
 - Linux, Git
+- Burpsuite, Nmap, Gobuster, Dirbuster, exiftool, Metasploit
 <br/>
  <img src="https://github.com/AbdelrahimAlsadiq/AbdelrahimAlsadiq/blob/main/Effects/Line.gif">
 
