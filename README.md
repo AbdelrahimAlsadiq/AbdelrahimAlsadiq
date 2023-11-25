@@ -5,12 +5,14 @@
 <a href="https://github.com/AbdelrahimAlsadiq"><img align='center' src='https://github.com/AbdelrahimAlsadiq/AbdelrahimAlsadiq/blob/main/Effects/Dino.gif' width='100%'></a>
 
 
-<h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/abdelrahim-alsadiq/" target="_blank" rel="noopener noreferrer">Abdelrahim Alsadiq</a> <img src="https://github.com/AbdelrahimAlsadiq/AbdelrahimAlsadiq/blob/main/Effects/Hi.gif" height="30" />
+<h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/abdelrahim-alsadiq/" target="_blank" rel="noopener noreferrer">Abdelrahim Alsadiq</a> 
+
+ <img src="https://github.com/AbdelrahimAlsadiq/AbdelrahimAlsadiq/blob/main/Effects/Hi.gif" height="30" />
 <img src="https://github.com/AbdelrahimAlsadiq/AbdelrahimAlsadiq/blob/main/Effects/Line.gif"> 
 
 <a href="https://github.com/AbdelrahimAlsadiq"><img align='right' src='https://github.com/AbdelrahimAlsadiq/AbdelrahimAlsadiq/blob/main/Effects/chika-fujiwara-spinning.gif' width='35%'></a>
 
-<script src="https://tryhackme.com/badge/1989723"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/abdelrahim.alsad.png" alt="TryHackMe">
 
 ### About Me
 - 🎓 I'm a Computer Science Student  
