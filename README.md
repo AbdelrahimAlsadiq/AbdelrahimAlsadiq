@@ -11,7 +11,6 @@
 <img src="https://github.com/AbdelrahimAlsadiq/AbdelrahimAlsadiq/blob/main/Effects/Line.gif"> 
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/abdelrahim.alsad.png" alt="TryHackMe">
 
 ### About Me
 - 🎓 Teaching Assistant @ Computer Science Dept. - Luxor University.
