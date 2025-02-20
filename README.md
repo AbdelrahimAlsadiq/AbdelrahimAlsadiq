@@ -10,22 +10,20 @@
  <img src="https://github.com/AbdelrahimAlsadiq/AbdelrahimAlsadiq/blob/main/Effects/Hi.gif" height="30" />
 <img src="https://github.com/AbdelrahimAlsadiq/AbdelrahimAlsadiq/blob/main/Effects/Line.gif"> 
 
-<a href="https://github.com/AbdelrahimAlsadiq"><img align='right' src='https://github.com/AbdelrahimAlsadiq/AbdelrahimAlsadiq/blob/main/Effects/chika-fujiwara-spinning.gif' width='35%'></a>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/abdelrahim.alsad.png" alt="TryHackMe">
 
 ### About Me
-- 🎓 I'm a Computer Science Student  
-- 💻 I’m currently studying Cybersecurity (Pen. Testing)
-- ⭐ 2023's Objective: Hunt some bug bounties <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- ⚡ I love Programming, Video Editing, Gaming, and Anime
+- 🎓 Teaching Assistant @ Computer Science Dept. - Luxor University.
+- ⭐ 2025's Objective: Get masters degree
+- ⚡ I love Programming, Video Editing, and Gaming
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <a href="https://github.com/AbdelrahimAlsadiq"><img align='right' src='https://github.com/AbdelrahimAlsadiq/AbdelrahimAlsadiq/blob/main/Effects/programming-computer-frog.gif' width='35%'></a>
 
 ---
 
-### Languages and Tools 
+### Languages and Tools
 - HTML, CSS, Javascript
 - C, C++, C#, Java, Python
 - Linux, Git
@@ -33,7 +31,6 @@
 <br/>
  <img src="https://github.com/AbdelrahimAlsadiq/AbdelrahimAlsadiq/blob/main/Effects/Line.gif">
 
-<a href="https://github.com/AbdelrahimAlsadiq"><img align='right' src='https://github.com/AbdelrahimAlsadiq/AbdelrahimAlsadiq/blob/main/Effects/Conan.gif' width='50%'></a>
 
 ---
 
